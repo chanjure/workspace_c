@@ -1,11 +1,11 @@
 CUDA C/C++ Matrix library
 =========================
 
-> Matrix container using NVIDIA CUDA
+> Tensor type container using NVIDIA CUDA
 
 
 Todo
 ----
-1.Matrix container (double)  
-2.Matrix arithmetics  
+1. Tensor container (double)  
+2. Tensor arithmetics  
 
