@@ -1,8 +1,10 @@
 C/C++ Matrix library
 ====================
 
+> Tensor type container
+
 Todo
 ----
-1.Matrix container (double)  
-2.Matrix arithmetics  
+1. Tensor container (double)  
+2. Tensor arithmetics  
 
